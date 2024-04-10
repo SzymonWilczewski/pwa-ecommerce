@@ -1,5 +1,5 @@
 <template>
-  <Top.Nav />
+  <Header />
   <slot />
   <Footer />
 </template>
