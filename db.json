@@ -1,0 +1,55 @@
+{
+  "products": [
+    {
+      "id": "30-261",
+      "sku": "30-261",
+      "name": "Spodnie Nana",
+      "description": "<p>Spodnie Nana są dedykowane do zestawu z Marynarką Nana, która jest także dostępna na naszej stronie. <p>Razem tworzą eleganckie połączenie. Wyraźny wzór przejmuje dominację Twojego stylu. Możesz czuć się pewnie w biurze czy na formalnym spotkaniu, ale także wyjść na towarzyskie spotkanie, przy dobrej muzyce i jedzeniu. Pokaż się w nowej odsłonie i udowodnij, że nie ma dla Ciebie barier. Materiał i sposób wykonania zapewnia najwyższy komfort użytkowania, abyś mogła być pewna siebie w każdej sytuacji! <p>Skład: <p>50% WISKOZA <p>25% NYLON <p>20% POLIAMID <p>5% LYCRA <p>HAND MADE, NATURALNE MATERIAŁY, UNIKATOWOŚĆ PRODUKTU <p>Produkty tworzone w Krakowie <p>dla tych, którzy wolą dotknąć materiał przed zakupem polecamy odwiedzić nas w sklepach stacjonarnych <p>ul. Grodzka 32 <p>ul. Krakowska 14",
+      "regularPrice": "299,00",
+      "lowestPrice": "269,10",
+      "finalPrice": "269,10",
+      "sizeOptions": [38, 40, 42, 44, 46],
+      "image": "/images/catalog/product/30-261/01.jpg",
+      "gallery": [
+        "/images/catalog/product/30-261/01.jpg",
+        "/images/catalog/product/30-261/02.jpg",
+        "/images/catalog/product/30-261/03.jpg",
+        "/images/catalog/product/30-261/04.jpg"
+      ]
+    },
+    {
+      "id": "70-657",
+      "sku": "70-657",
+      "name": "Marynarka Ala Stripes",
+      "description": "<p>Marynarka Ala Stripes jest dedykowana do zestawu ze Spodniami Dorian Stripes, które są także dostępne na naszej stronie. <p>Razem tworzą eleganckie połączenie. Wyraźny wzór przejmuje dominację Twojego stylu. Możesz czuć się pewnie w biurze czy na formalnym spotkaniu, ale także wyjść na towarzyskie spotkanie, przy dobrej muzyce i jedzeniu. Pokaż się w nowej odsłonie i udowodnij, że nie ma dla Ciebie barier. <p>Materiał i sposób wykonania zapewnia najwyższy komfort użytkowania, abyś mogła być pewna siebie w każdej sytuacji! <p>Skład: <p>76% RAYON <p>18% POLIESTER <p>6% LYCRA <p>HAND MADE, NATURALNE MATERIAŁY, UNIKATOWOŚĆ PRODUKTU <p>Produkty tworzone w Krakowie <p>A dla tych, którzy wolą dotknąć materiał przed zakupem polecamy odwiedzić nas w sklepach stacjonarnych <p>ul. Grodzka 32 <p>ul. Krakowska 14",
+      "regularPrice": "599,00",
+      "lowestPrice": "419,30",
+      "finalPrice": "419,30",
+      "sizeOptions": [36, 38, 40, 42, 44],
+      "image": "/images/catalog/product/70-657/01.jpg",
+      "gallery": [
+        "/images/catalog/product/70-657/01.jpg",
+        "/images/catalog/product/70-657/02.jpg",
+        "/images/catalog/product/70-657/03.jpg",
+        "/images/catalog/product/70-657/04.jpg"
+      ]
+    },
+    {
+      "id": "70-950",
+      "sku": "70-950",
+      "name": "Marynarka Nana",
+      "description": "<p>Marynarka Nana jest dedykowana do zestawu ze Spodniami Nana, które są także dostępne na naszej stronie. </p><p>Razem tworzą eleganckie połączenie. Wyraźny wzór przejmuje dominację Twojego stylu. Możesz czuć się pewnie w biurze czy na formalnym spotkaniu, ale także wyjść na towarzyskie spotkanie, przy dobrej muzyce i jedzeniu. Pokaż się w nowej odsłonie i udowodnij, że nie ma dla Ciebie barier. </p><p>Materiał i sposób wykonania zapewnia najwyższy komfort użytkowania, abyś mogła być pewna siebie w każdej sytuacji! </p><p> Skład: </p><p>50% WISKOZA </p><p>25% NYLON </p><p>% POLIAMID </p><p>5% LYCRA </p><p>HAND MADE, NATURALNE MATERIAŁY, UNIKATOWOŚĆ PRODUKTU </p><p>Produkty tworzone w Krakowie </p><p>A dla tych, którzy wolą dotknąć materiał przed zakupem polecamy odwiedzić nas w sklepach stacjonarnych </p><p>ul. Grodzka 32 </p><p>ul. Krakowska 14</p>",
+      "regularPrice": "549,00",
+      "lowestPrice": "384,30",
+      "finalPrice": "384,30",
+      "sizeOptions": [36, 38, 40, 42, 44, 46],
+      "image": "/images/catalog/product/70-950/01.jpg",
+      "gallery": [
+        "/images/catalog/product/70-950/01.jpg",
+        "/images/catalog/product/70-950/02.jpg",
+        "/images/catalog/product/70-950/03.jpg",
+        "/images/catalog/product/70-950/04.jpg"
+      ]
+    }
+  ]
+}

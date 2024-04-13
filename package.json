@@ -5,11 +5,13 @@
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
+    "db": "npx json-server db.json --port 5000",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "json-server": "^1.0.0-alpha.23",
     "nuxt": "^3.10.3",
     "vue": "^3.4.19",
     "vue-router": "^4.3.0"
