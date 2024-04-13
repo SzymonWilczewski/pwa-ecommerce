@@ -5,6 +5,7 @@
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
+    "dev-https": "nuxt dev --hostname 'localhost' --https",
     "db": "npx json-server db.json --port 5000",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
@@ -18,6 +19,7 @@
   },
   "devDependencies": {
     "@nuxtjs/google-fonts": "^3.2.0",
+    "@nuxtjs/pwa": "^3.3.5",
     "sass": "^1.71.1"
   }
 }
